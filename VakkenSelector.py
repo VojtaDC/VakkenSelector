@@ -100,16 +100,13 @@ def generate_group_colors(n):
         'rgb(44, 160, 44)',   # Green
         'rgb(214, 39, 40)',   # Red
         'rgb(148, 103, 189)', # Purple
-
         'rgb(227, 119, 194)', # Pink
         'rgb(127, 127, 127)', # Gray
         'rgb(188, 189, 34)',  # Olive
         'rgb(23, 190, 207)',  # Cyan
         'rgb(255, 99, 71)',   # Tomato
         'rgb(75, 0, 130)',    # Indigo
-
         'rgb(0, 255, 127)',   # SpringGreen
-
         'rgb(0, 191, 255)',   # DeepSkyBlue
         'rgb(255, 69, 0)',    # OrangeRed
         'rgb(154, 205, 50)',  # YellowGreen
